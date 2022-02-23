@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\client\\src",
+    "\\client\\src\\app",
+    "\\client\\src\\app\\models",
+    "\\server",
+    "\\server\\server",
+    "\\server\\server\\App_Start",
+    "\\server\\server\\Models"
+  ],
+  "SelectedNode": "\\server\\server\\App_Start\\WebApiConfig.cs",
+  "PreviewInSolutionExplorer": false
+}
